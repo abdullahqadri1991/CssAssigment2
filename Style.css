@@ -1,0 +1,112 @@
+body {
+    font-size: 80%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: #d8f5db;}
+
+   
+span{
+font-size: 18px;
+color: chocolate;
+}
+h1{
+    font-size: 46px;
+    color: gold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+h2{
+    font-size: 32px;
+    color: black;
+    font-family: cursive;
+    font-weight: bolder;
+    text-align: left;
+}
+
+td{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.page {
+    width: 100%;
+    padding: 10px;
+    border: black; 
+    margin: auto;  
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.543) ;   
+}
+input,textarea,button{
+    border-color: 1px #000000;
+    box-shadow: 5px 5px 3px #747171;
+    color: #000000;
+    border-radius:10px;
+    
+}
+input:hover,textarea:hover,button:hover{
+    border-color: darkgoldenrod;
+    background-color: rgba(109, 204, 233, 0.123);
+    font-size: 18px;
+}
+input:active,textarea:active,button:active{
+    background-color: red;
+    border-color: #000000;
+    font-size: 18px;
+
+}
+input:focus,textarea:focus,button:focus{
+    background-color: burlywood;
+}
+p {
+    text-align: center;
+    margin: 20px auto 20px auto;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    font-size: 20px;
+}
+.Home page pera{
+    text-align: center;
+    margin: 20px auto 20px auto;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    font-size: 20px;
+
+}
+
+ a {
+    color: #071ffc;
+    text-decoration: none;
+    padding: 6px 18px 5px 18px;
+    font-size: 20px;
+} 
+
+a:hover{
+    color: #000000;
+    background-color: #747171;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+a:active{
+    color: gold;
+}
+a:visited::after{
+    color: #cd61c6;
+}
+li{
+    text-align: left;
+    font-size: x-large;
+}
+li:hover{
+    text-shadow:2px 1px 2px #747171;
+    color: rgb(16, 151, 12);
+}
+
+
+
+
+    
